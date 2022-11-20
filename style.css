@@ -6,7 +6,7 @@
 }
 .content {
     float: left;
-    width: 550px;
+    width: 500px;
     height: 350px;
     white-space: normal;
     background-repeat: no-repeat;
@@ -39,7 +39,7 @@
 
 #navLinks {
     text-align: center;
-    width: 550px;
+    width: 500px;
 }
 #navLinks ul {
     margin: 0px;
