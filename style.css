@@ -1,20 +1,20 @@
 
 #wrapper {
-    width: 2200px;
+    width: 1600px;
     transform: translate3d(0, 0, 0);
     transition: transform .5s ease-in-out;
 }
 .content {
     float: left;
-    width: 550px;
-    height: 350px;
+    width: 400px;
+    height: 250px;
     white-space: normal;
     background-repeat: no-repeat;
 }
 
 #contentContainer {
-    width: 450px;
-    height: 350px;
+    width: 400px;
+    height: 250px;
     border: 5px black solid;
     overflow: hidden;
 
@@ -39,7 +39,7 @@
 
 #navLinks {
     text-align: center;
-    width: 450px;
+    width: 400px;
 }
 #navLinks ul {
     margin: 0px;
