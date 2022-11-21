@@ -7,14 +7,14 @@
 .content {
     float: left;
     width: 400px;
-    height: 250px;
+    height: 350px;
     white-space: normal;
     background-repeat: no-repeat;
 }
 
 #contentContainer {
     width: 400px;
-    height: 250px;
+    height: 350px;
     border: 5px black solid;
     overflow: hidden;
 
