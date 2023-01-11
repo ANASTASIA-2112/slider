@@ -1,1 +1,1 @@
-ANASTASIA-2112.GITHUB.IO
+https://anastasia-2112.github.io/slider/
